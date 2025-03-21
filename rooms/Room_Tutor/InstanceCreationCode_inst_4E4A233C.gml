@@ -1,0 +1,1 @@
+dialog_text = "Shift And Space 2"

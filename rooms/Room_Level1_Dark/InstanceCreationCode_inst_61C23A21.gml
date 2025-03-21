@@ -1,0 +1,1 @@
+dialog_text = "Come here! Now!"

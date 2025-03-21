@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"restatr_level",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"restatr_level",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

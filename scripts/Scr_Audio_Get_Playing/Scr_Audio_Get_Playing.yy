@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Scr_Audio_Get_Playing",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Scr_Audio_Get_Playing",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

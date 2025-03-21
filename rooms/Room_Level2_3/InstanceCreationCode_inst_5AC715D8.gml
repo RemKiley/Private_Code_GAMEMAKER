@@ -1,0 +1,1 @@
+dialog_text = "Wow, You Did It!"

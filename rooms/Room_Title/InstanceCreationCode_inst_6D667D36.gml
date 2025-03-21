@@ -1,0 +1,1 @@
+dialog_text = "Thanks For Play"

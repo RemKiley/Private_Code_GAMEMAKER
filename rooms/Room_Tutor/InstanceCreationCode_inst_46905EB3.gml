@@ -1,0 +1,1 @@
+dialog_text = "Press Space 2"

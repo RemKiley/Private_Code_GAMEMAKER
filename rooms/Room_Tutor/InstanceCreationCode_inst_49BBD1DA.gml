@@ -1,0 +1,1 @@
+dialog_text = "Ye, That All"
